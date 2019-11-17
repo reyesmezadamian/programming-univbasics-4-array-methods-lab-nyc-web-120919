@@ -23,5 +23,6 @@ def using_last(array)
 end
 
 def using_size(array)
-
+ using_size = [1,2,3,4,5,6]
+ using_size.size
 end
